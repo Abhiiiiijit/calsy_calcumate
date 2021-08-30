@@ -1,2 +1,2 @@
-# calsy_calcumate
+# Calsy Calcumate
 Simple Calculator
