@@ -1,2 +1,0 @@
-# Calsy Calcumate
-Simple Calculator
